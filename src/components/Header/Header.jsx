@@ -6,27 +6,27 @@ const Header = () => {
     <NavigationBar>
       <Logo src="/images/logo.svg" />
       <NavigationMenu>
-        <a href="#">
+        <a>
           <img src="/images/home-icon.svg" alt="Home" />
           <span>HOME</span>
         </a>
-        <a href="#">
+        <a>
           <img src="/images/search-icon.svg" alt="Search" />
           <span>SEARCH</span>
         </a>
-        <a href="#">
+        <a>
           <img src="/images/watchlist-icon.svg" alt="Watch List" />
           <span>WATCHLIST</span>
         </a>
-        <a href="#">
+        <a>
           <img src="/images/original-icon.svg" alt="Originals" />
           <span>ORIGINALS</span>
         </a>
-        <a href="#">
+        <a>
           <img src="/images/movie-icon.svg" alt="Movies" />
           <span>MOVIES</span>
         </a>
-        <a href="#">
+        <a>
           <img src="/images/series-icon.svg" alt="Series" />
           <span>SERIES</span>
         </a>
