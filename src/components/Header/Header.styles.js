@@ -6,6 +6,7 @@ export const NavigationBar = styled.nav`
   display: flex;
   align-items: center;
   padding: 0 35px;
+  overflow-x: hidden;
 `;
 
 export const Logo = styled.img`
