@@ -3,7 +3,9 @@ import { Container } from "./Home.styles";
 
 const Home = () => {
   return (
-    <Container>Home</Container>
+    <Container>
+      Home
+    </Container>
   );
 };
 
